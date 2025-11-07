@@ -198,9 +198,4 @@
 - [ ] 《爱因斯坦 生活和宇宙》
 - [ ] 《本杰明·富兰克林》
 
-#### 纯英文
-
-- [ ] 《Edward R. Tufte - The Visual Display of Quantitative Information-Graphics Pr (2001)》
-- [ ] 《Norman Maclean - Young men & fire-University of Chicago Press (1993)》
-
 
